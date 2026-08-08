@@ -1,0 +1,15 @@
+*.o
+*.ko
+*.cmd
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+Module.symvers
+modules.order
+.*.cmd
+..module-common.o
+.module-common.o
+.cache.mk
+__pycache__/
+*.pyc
